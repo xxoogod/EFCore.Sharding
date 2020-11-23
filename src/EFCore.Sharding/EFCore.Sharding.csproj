@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <Version>$(EFCore_Sharding)</Version>
+    <Version>3.1.8.233</Version>
     <GenerateAssemblyInfo>true</GenerateAssemblyInfo>
     <LangVersion>8.0</LangVersion>
     <DefineConstants>TRACE;DEBUG;EFCORE3</DefineConstants>
